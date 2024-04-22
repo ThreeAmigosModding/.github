@@ -1,4 +1,4 @@
-!{](https://raw.githubusercontent.com/ThreeAmigosModding/ThreeAmigosModding/main/img/tam_banner.png)
+![](https://raw.githubusercontent.com/ThreeAmigosModding/ThreeAmigosModding/main/img/tam_banner.png)
 
 ## 👋 Howdy!
 
