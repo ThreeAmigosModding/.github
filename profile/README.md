@@ -14,5 +14,5 @@ Welcome to Three Amigos Modding! We are a collective of three creators who joine
 ### Meet the Amigos
 
 [Hakko](https://github.com/hakkodevelopment) - Programming, 3D Modeling & Graphic Design\
-[Maxmov](https://youtube.com/maxmov) = Graphic Design, 3D Modeling, Marketing\
+[Maxmov](https://youtube.com/maxmov) - Graphic Design, 3D Modeling, Marketing\
 [Ryan](https://discord.com/users/404062280456863745) - Graphic Design
